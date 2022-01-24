@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+.backgroundCustom {
+  background-color: linear-gradient(to right top, #00ff21, #00ff1d, #00ff18, #00ff13, #00ff0c, #00ff22, #00ff2f, #00ff3a, #00ff4f, #00ff61, #0eff70, #1cff7e);
+  background: url("../img/bgPath01.jpg");
+  repeat: repeat;
+}
+
+.navbarCustomize {
+  background-color: rgb(255, 243, 12);
+  border: 0.5px groove rgb(179, 183, 68);
+  border-radius: 10px;
+  margin-top: 2vh;
+}
+
+
+.navCustomText {
+  font-family: 'Quantico', sans-serif;
+}
+
+
+.borderSlider {
+  margin: 2rem solid transparent;
+  border-radius: 2rem;
+}
